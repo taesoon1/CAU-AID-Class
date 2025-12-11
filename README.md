@@ -20,7 +20,7 @@ Ensure you have the following installed:
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CAU-AID-Class.git
+   git clone https://github.com/taesoon/CAU-AID-Class.git
    ```
 2. Navigate to the project directory:
    ```bash
