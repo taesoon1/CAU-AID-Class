@@ -43,4 +43,4 @@ python knn_iris_classifier.py
 3.View the model's accuracy and balanced accuracy in the console 
 # Author
 
-Developed by taesoon
+Developed by <u>taesoon<u>
